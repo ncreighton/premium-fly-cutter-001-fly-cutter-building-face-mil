@@ -1,0 +1,2 @@
+# premium-fly-cutter-001-fly-cutter-building-face-mil
+Tired of losing track of your custom fly cutter specs, material lists, and build steps across scattered notes and sticky notes? The Fly Cutter Building &amp; Face Mill Craft Hub organizes every detail of your machining craft into one intelligent Notion workspace.  This template solves the chaos of managing multiple fly cutter and face mill builds by ce
